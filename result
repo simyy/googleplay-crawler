@@ -1,0 +1,1382 @@
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Free"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.linecorp.LGGRTW"
+    backendDocid: "com.linecorp.LGGRTW"
+    docType: 1
+    backendId: 3
+    title: "LINE \346\227\205\351\201\212\345\244\247\344\272\250"
+    creator: "LINE Corporation"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 101
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh6.ggpht.com/AZ67vbVDCELn2R19vkuPanuV6E1Au5-lqNpgd__mfQn-_NrUFVB8Z-ImoXGCqTBvEOc"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh5.ggpht.com/7CYGMy_CVK_-nEazp18CqCxhKI3sMP18CAE7O1dZvp7ra7aiu5iOjYlV6A2NyIyfKA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 0
+      imageUrl: "https://lh3.ggpht.com/uVnWw7gL7lvt6GNc8ecGI8iJKQknqT6YI1O0LLpBgTMXLyeSIvrk-djsB6wjcTGdprk"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 101
+        installationSize: 27329795
+        numDownloads: "500,000+"
+        packageName: "com.linecorp.LGGRTW"
+        uploadDate: "Oct 21, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.3460278511
+      ratingsCount: 66801
+      oneStarRatings: 3536
+      twoStarRatings: 1718
+      threeStarRatings: 6827
+      fourStarRatings: 10734
+      fiveStarRatings: 43986
+      commentCount: 18108
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.linecorp.LGGRTW"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.linecorp.LGGRTW"
+    purchaseDetailsUrl: "details?doc=com.linecorp.LGGRTW"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.kimi.ggplay.jhzrtw"
+    backendDocid: "com.kimi.ggplay.jhzrtw"
+    docType: 1
+    backendId: 3
+    title: "\345\212\215\351\255\202\344\271\213\345\210\203-\346\227\245\345\274\217\346\214\207\345\212\203\345\213\225\344\275\234RPG"
+    creator: "\346\221\251\345\210\251"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 2
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh3.ggpht.com/YZcoBp29zt6TzAayUXk8sAiwRZU0hGttc_gWE43rt13tTHjSD7ygyAKMq09mK9-W7JY"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh3.ggpht.com/-Ki6kBSmBQDQ3oh2eF1Soi3sSWppF_8wkgJ-9SV7ygQvrzA8Pc9rVmkNSrA2OiDxYkE"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=jdNSPLEiTD0"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/jdNSPLEiTD0/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 2
+        installationSize: 24325671
+        numDownloads: "100,000+"
+        packageName: "com.kimi.ggplay.jhzrtw"
+        uploadDate: "Nov 4, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.4568529129
+      ratingsCount: 3940
+      oneStarRatings: 310
+      twoStarRatings: 65
+      threeStarRatings: 156
+      fourStarRatings: 393
+      fiveStarRatings: 3016
+      commentCount: 1520
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.kimi.ggplay.jhzrtw"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.kimi.ggplay.jhzrtw"
+    purchaseDetailsUrl: "details?doc=com.kimi.ggplay.jhzrtw"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.tencent.xdft"
+    backendDocid: "com.tencent.xdft"
+    docType: 1
+    backendId: 3
+    title: "\347\204\241\346\225\265\347\202\253\351\254\245\347\216\213"
+    creator: "High Morale Developments Limited(HM)"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 19
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh5.ggpht.com/N4W-zY-b_jITwwNjvZESZdX5EnG3eGAuRsOsjRPfJKWTXQOE-Nrd9HbjOZg9uUpCTcI"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh6.ggpht.com/ei5OLcqMSyX60NmRz1WgVMz05oggYLWCB_fG-cuu9PofdFH7x-Vv72YXZGEcrXtoJ0U"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 0
+      imageUrl: "https://lh5.ggpht.com/p_C2c2EWN9R8LZAL-pugkHEXuuj6R3DRxh8aDkRWCc7TgcC-xJQkH4cvbfi-uh9kQN4"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=JORgbUPLgtQ"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/JORgbUPLgtQ/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 19
+        installationSize: 45707352
+        numDownloads: "500,000+"
+        packageName: "com.tencent.xdft"
+        uploadDate: "Nov 9, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.19775390625
+      ratingsCount: 7034
+      oneStarRatings: 840
+      twoStarRatings: 231
+      threeStarRatings: 471
+      fourStarRatings: 648
+      fiveStarRatings: 4844
+      commentCount: 2712
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.tencent.xdft"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.tencent.xdft"
+    purchaseDetailsUrl: "details?doc=com.tencent.xdft"
+    detailsReusable: true
+  }
+  child {
+    docid: "jp.co.happyelements.tototw"
+    backendDocid: "jp.co.happyelements.tototw"
+    docType: 1
+    backendId: 3
+    title: "\346\242\205\351\234\262\345\217\257\347\211\251\350\252\236 \347\231\222\350\241\223\345\243\253\350\210\207\351\210\264\344\271\213\346\227\213\345\276\213"
+    creator: "Happy Elements K.K"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 31
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh3.ggpht.com/aQh_ZCbsIwkls52LES8PUuXdWIMJWB2RQY9mmqXy3QHPEGIVRYuM1kvBJdrc5gh_qA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh6.ggpht.com/Hfgabq1VQvySnI-fImFcXpQoKD-ExIWlAYcbzmPCeSMUBGTF_3Ta4vRi5pcwRF4Uqw"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=z3ZvBmCMLbo"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/z3ZvBmCMLbo/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 31
+        installationSize: 36230196
+        numDownloads: "1,000,000+"
+        packageName: "jp.co.happyelements.tototw"
+        uploadDate: "Oct 28, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.48624801636
+      ratingsCount: 30396
+      oneStarRatings: 1692
+      twoStarRatings: 573
+      threeStarRatings: 1527
+      fourStarRatings: 4075
+      fiveStarRatings: 22529
+      commentCount: 5546
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=jp.co.happyelements.tototw"
+    shareUrl: "https://play.google.com/store/apps/details?id=jp.co.happyelements.tototw"
+    purchaseDetailsUrl: "details?doc=jp.co.happyelements.tototw"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.regin.gcld.tw_googleplay_kfzb"
+    backendDocid: "com.regin.gcld.tw_googleplay_kfzb"
+    docType: 1
+    backendId: 3
+    title: "\344\272\202\344\270\226\344\270\211\345\234\213\357\274\232\346\224\273\345\237\216\346\216\240\345\234\260"
+    creator: "Coco Directouch"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 18
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh6.ggpht.com/CQ5LmvUtEvnv1pJj1V0aCNhFo7IZU8M6EDhUco_wUzLSNg-EXU2b7Z_xnflVMlFmhxkD"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh5.ggpht.com/i-1LFlkVPgFxB2ejXiL0bjYiOvJBTYdmYopla_RL56dfDvRpDQRRLQSx6JbwAxSnQDM"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 18
+        installationSize: 45369249
+        numDownloads: "100,000+"
+        packageName: "com.regin.gcld.tw_googleplay_kfzb"
+        uploadDate: "Nov 4, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.735912323
+      ratingsCount: 1189
+      oneStarRatings: 69
+      twoStarRatings: 5
+      threeStarRatings: 6
+      fourStarRatings: 11
+      fiveStarRatings: 1098
+      commentCount: 145
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.regin.gcld.tw_googleplay_kfzb"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.regin.gcld.tw_googleplay_kfzb"
+    purchaseDetailsUrl: "details?doc=com.regin.gcld.tw_googleplay_kfzb"
+    detailsReusable: true
+  }
+  child {
+    docid: "air.com.yh.dzsg"
+    backendDocid: "air.com.yh.dzsg"
+    docType: 1
+    backendId: 3
+    title: "\351\254\245\351\231\243\344\270\211\345\234\213"
+    creator: "EFUN"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 1000003
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh4.ggpht.com/jGaESX804UuxzlMHMhRRzcnBBIX6V2s1DAGq6wKo019k3WAg6cLogrEACqWiziJ_tog"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh6.ggpht.com/E_XYJnOlSlbHFEb4gqB4vvJhKnlDzD2si-kBUSVrMHQ_FZSg4jEk4h-0x-1X-J9EX_E"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 0
+      imageUrl: "https://lh6.ggpht.com/BZoHbDeNn_dR_CBfN5TbC6LxEyxgox30QKHkDV6ZbHjLzHVd1SDgLhVQDsMX1idehA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=N_2FrUARGJg&feature=youtu.be"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/N_2FrUARGJg/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 1000003
+        installationSize: 41105227
+        numDownloads: "100,000+"
+        packageName: "air.com.yh.dzsg"
+        uploadDate: "Oct 20, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.23992204666
+      ratingsCount: 1538
+      oneStarRatings: 227
+      twoStarRatings: 30
+      threeStarRatings: 57
+      fourStarRatings: 57
+      fiveStarRatings: 1167
+      commentCount: 997
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=air.com.yh.dzsg"
+    shareUrl: "https://play.google.com/store/apps/details?id=air.com.yh.dzsg"
+    purchaseDetailsUrl: "details?doc=air.com.yh.dzsg"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.teeplay.dota.tototw"
+    backendDocid: "com.teeplay.dota.tototw"
+    docType: 1
+    backendId: 3
+    title: "\351\233\205\345\205\270\345\250\234\346\210\260\347\264\200\343\201\256\345\211\265\344\270\226\350\213\261\351\233\204"
+    creator: "TEEPLAY Interactive"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 9
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh6.ggpht.com/IcUBikb69stasWF5VsZeNc7ywe9WvR0lc658qRDbcrT70TzxVon4yai458DTN7ieWNKy"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh4.ggpht.com/JWDUGv4iKRVQNoUjwDX8ZH9BhHvvnrtZYXpP6F-GeYVJesjk-EmVS0VU9oWcj2WFlodb"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 0
+      imageUrl: "https://lh3.ggpht.com/CSXR_2cfp4yYc44cmnbOHnJHYiF3aaJU9AfGixKIJDfGfwjViZKiGHD__FaEu--pveI"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=xDD61EosihE"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/xDD61EosihE/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 9
+        installationSize: 50816736
+        numDownloads: "100,000+"
+        packageName: "com.teeplay.dota.tototw"
+        uploadDate: "Nov 6, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.30902099609
+      ratingsCount: 1042
+      oneStarRatings: 111
+      twoStarRatings: 19
+      threeStarRatings: 53
+      fourStarRatings: 113
+      fiveStarRatings: 746
+      commentCount: 322
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.teeplay.dota.tototw"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.teeplay.dota.tototw"
+    purchaseDetailsUrl: "details?doc=com.teeplay.dota.tototw"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.nplay.nptwbb3"
+    backendDocid: "com.nplay.nptwbb3"
+    docType: 1
+    backendId: 3
+    title: "\347\220\203\344\276\206\345\260\261\346\211\2232014(\345\244\247\346\234\203\346\250\241\345\274\217 \345\212\240\345\274\267\347\211\210)"
+    creator: "\347\234\237\345\245\275\347\216\251 \345\250\233\346\250\202"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 30
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh6.ggpht.com/GGAnxqg3Kke8xWe1BKk_QpJo2YA7rmbzbY50CO9zdEmdHn66-cO_QMcGKjqjihXJzpA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh3.ggpht.com/em6jNixwZMRVQ0TdwVPQ2AAcDQVXeGwf5v9ke0LpB8JiPlLuJFlx5HwOA3yACPRCyemk"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=fFvjNrIt-fk"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/fFvjNrIt-fk/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 30
+        installationSize: 44227349
+        numDownloads: "100,000+"
+        packageName: "com.nplay.nptwbb3"
+        uploadDate: "Oct 16, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 3.87833499908
+      ratingsCount: 5622
+      oneStarRatings: 1152
+      twoStarRatings: 209
+      threeStarRatings: 316
+      fourStarRatings: 439
+      fiveStarRatings: 3506
+      commentCount: 1467
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.nplay.nptwbb3"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.nplay.nptwbb3"
+    purchaseDetailsUrl: "details?doc=com.nplay.nptwbb3"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.wot2.tw870sy"
+    backendDocid: "com.wot2.tw870sy"
+    docType: 1
+    backendId: 3
+    title: "\346\263\260\345\235\246\344\271\213\346\210\260\357\274\232\347\216\213\350\200\205\351\241\233\345\263\260"
+    creator: "ISD Studio T.W"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 34
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh3.ggpht.com/ziKgv-Zs_JN75BGwIyOnJSJQqeqMechyX5dN7q-VPQSeDwmmDFPZhfvZiEjElQQ5QYI"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh5.ggpht.com/fEGOZdGbz3QOtwH-1_Tx4AXWw05cbvRzjmtgixfzmI_DzHylKTdjQynCK8rsZajsAQ"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=DihVVnDQPpg&feature=youtu.be"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/DihVVnDQPpg/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 34
+        installationSize: 119116462
+        numDownloads: "100,000+"
+        packageName: "com.wot2.tw870sy"
+        uploadDate: "Nov 6, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.88775014877
+      ratingsCount: 2147
+      oneStarRatings: 47
+      twoStarRatings: 5
+      threeStarRatings: 12
+      fourStarRatings: 14
+      fiveStarRatings: 2069
+      commentCount: 846
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.wot2.tw870sy"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.wot2.tw870sy"
+    purchaseDetailsUrl: "details?doc=com.wot2.tw870sy"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.lemongame.tw.dota"
+    backendDocid: "com.lemongame.tw.dota"
+    docType: 1
+    backendId: 3
+    title: "\345\210\200\345\241\224\345\202\263\345\245\207"
+    creator: "LemonGameTW"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 18153
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh3.ggpht.com/ZgSLOG8Dj5DBu4HykpPIXAw3nBP_HQcdZbIPa6bcfGsWilO2_hf7KvRITYLnEEE-JSLR"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh3.ggpht.com/j_zN6QQA_OuiB0mWgOQkh3i3pPfu41s1Tx1kg3NA2TOfFYgkGKSGyOe8RSb_PKHnWaU"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=svviUzcoGP4"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/svviUzcoGP4/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 18153
+        installationSize: 140059166
+        numDownloads: "1,000,000+"
+        packageName: "com.lemongame.tw.dota"
+        uploadDate: "Oct 27, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.33421182632
+      ratingsCount: 93321
+      oneStarRatings: 8590
+      twoStarRatings: 2511
+      threeStarRatings: 5239
+      fourStarRatings: 9761
+      fiveStarRatings: 67220
+      commentCount: 13915
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.lemongame.tw.dota"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.lemongame.tw.dota"
+    purchaseDetailsUrl: "details?doc=com.lemongame.tw.dota"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.efun.yxzh"
+    backendDocid: "com.efun.yxzh"
+    docType: 1
+    backendId: 3
+    title: "Efun-\350\213\261\351\233\204\345\217\254\345\226\232"
+    creator: "Efun TW"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 8
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh6.ggpht.com/wOi-m30BmhcdELXQebB9Bz9hrzE3fI_STOzk0RLbqsohEXwPi8Wt8YeSxIc-XCKJnA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh6.ggpht.com/XWqmOFqUcaKXKhBVI_bYKL94NG_jm0IDINSwno-T4yNUKz7gyq5X_PjXZJGHK-0ii6Of"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 0
+      imageUrl: "https://lh3.ggpht.com/HjuCj_zmg83657LH3wJA2TbIXxl280MHuqAGWs3d0cVbzRQALbXAsWwoaGeE1Qd_e4PL"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=JemaYju-JE4&feature=youtu.be"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/JemaYju-JE4/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 8
+        installationSize: 86839359
+        numDownloads: "100,000+"
+        packageName: "com.efun.yxzh"
+        uploadDate: "Oct 29, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.56849431992
+      ratingsCount: 11052
+      oneStarRatings: 751
+      twoStarRatings: 189
+      threeStarRatings: 320
+      fourStarRatings: 558
+      fiveStarRatings: 9234
+      commentCount: 6787
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.efun.yxzh"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.efun.yxzh"
+    purchaseDetailsUrl: "details?doc=com.efun.yxzh"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.nutsplay.yamengdai"
+    backendDocid: "com.nutsplay.yamengdai"
+    docType: 1
+    backendId: 3
+    title: "\345\213\207\350\200\205\345\202\263\345\245\207(\347\206\212\350\262\223\344\271\213\346\200\222\345\205\254\346\270\254)"
+    creator: "Nuts Power Technology Limited."
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 11
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh4.ggpht.com/jlNIi-ETpFH6EU3lMWkMFa1iG0NT-hD_XPkTHIKZ8ZnPz7sG0rL3n3h-yu78eWIoAwt2"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh6.ggpht.com/pGdfDakDdrhhKp49k4M618mQt00fuId6p49U8oKubCO2ro6pjwt05sEqiTyqv-EDV1A"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 11
+        installationSize: 25463071
+        numDownloads: "50,000+"
+        packageName: "com.nutsplay.yamengdai"
+        uploadDate: "Nov 4, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 3.98901104927
+      ratingsCount: 91
+      oneStarRatings: 16
+      twoStarRatings: 0
+      threeStarRatings: 11
+      fourStarRatings: 6
+      fiveStarRatings: 58
+      commentCount: 15
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.nutsplay.yamengdai"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.nutsplay.yamengdai"
+    purchaseDetailsUrl: "details?doc=com.nutsplay.yamengdai"
+    detailsReusable: true
+  }
+  child {
+    docid: "air.com.sincetimes.taiwan.lianyun"
+    backendDocid: "air.com.sincetimes.taiwan.lianyun"
+    docType: 1
+    backendId: 3
+    title: "\347\264\205\350\255\246\345\244\247\346\210\260"
+    creator: "Nightmare"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 1000001
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh5.ggpht.com/NPbxHI-m-kkAuy2swHPY5WgiGNMelM8GA2Lu8EuXl1MSLR7BXSOGNnFXdPvUP5msEzc"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh5.ggpht.com/FsNYPnCRiNHZnPmD61Or0n04qyfMcmWcIXi15Wp7vHZW9MveMr8YPRHjz76elh3-u2I"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 1000001
+        installationSize: 37835447
+        numDownloads: "10,000+"
+        packageName: "air.com.sincetimes.taiwan.lianyun"
+        uploadDate: "Oct 30, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 3.92225193977
+      ratingsCount: 373
+      oneStarRatings: 61
+      twoStarRatings: 14
+      threeStarRatings: 30
+      fourStarRatings: 56
+      fiveStarRatings: 212
+      commentCount: 58
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=air.com.sincetimes.taiwan.lianyun"
+    shareUrl: "https://play.google.com/store/apps/details?id=air.com.sincetimes.taiwan.lianyun"
+    purchaseDetailsUrl: "details?doc=air.com.sincetimes.taiwan.lianyun"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.gamevil.kritikamobile.android.google.global.normal"
+    backendDocid: "com.gamevil.kritikamobile.android.google.global.normal"
+    docType: 1
+    backendId: 3
+    title: "Kritika"
+    creator: "GAMEVIL"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 19
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh4.ggpht.com/szfFi5QkYQ9Om5T_pSYrH1uKAFs55PujbtMkXaS1U5h2WFOdtYWXhqimoodsn6r3lkk"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh6.ggpht.com/7x9RNb_YEXkHUJFC2vXYU-YSS_7fKCjQ9riSb4KRYuOfkjJXtSAhj0CWdC6EaAXSGXw"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=DsobkxojiwA"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/DsobkxojiwA/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 19
+        installationSize: 34426452
+        numDownloads: "5,000,000+"
+        packageName: "com.gamevil.kritikamobile.android.google.global.normal"
+        uploadDate: "Oct 23, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.22102499008
+      ratingsCount: 243330
+      oneStarRatings: 22988
+      twoStarRatings: 8307
+      threeStarRatings: 17768
+      fourStarRatings: 37139
+      fiveStarRatings: 157128
+      commentCount: 77215
+    }
+    annotations {
+      badgeForCreator {
+        title: "Top Developer"
+        image {
+          imageType: 5
+          Dimension {
+            width: 11
+            height: 11
+          }
+          imageUrl: "http://lh3.ggpht.com/STkLA3lthJ3mrb1mScEIdKgag30BABVWAz3m-zTnwTeUShZIZz8fAkQR0tgCe4GLSEY"
+          supportsFifeUrlOptions: true
+        }
+        image {
+          imageType: 6
+          Dimension {
+            width: 24
+            height: 24
+          }
+          imageUrl: "http://lh3.ggpht.com/STkLA3lthJ3mrb1mScEIdKgag30BABVWAz3m-zTnwTeUShZIZz8fAkQR0tgCe4GLSEY"
+          supportsFifeUrlOptions: true
+        }
+        image {
+          imageType: 7
+          Dimension {
+            width: 28
+            height: 33
+          }
+          imageUrl: "http://lh3.ggpht.com/STkLA3lthJ3mrb1mScEIdKgag30BABVWAz3m-zTnwTeUShZIZz8fAkQR0tgCe4GLSEY"
+          supportsFifeUrlOptions: true
+        }
+      }
+    }
+    detailsUrl: "details?doc=com.gamevil.kritikamobile.android.google.global.normal"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.gamevil.kritikamobile.android.google.global.normal"
+    purchaseDetailsUrl: "details?doc=com.gamevil.kritikamobile.android.google.global.normal"
+    detailsReusable: true
+  }
+  child {
+    docid: "tw.com.iwplay.android.smg"
+    backendDocid: "tw.com.iwplay.android.smg"
+    docType: 1
+    backendId: 3
+    title: "\346\261\272\346\210\260\347\245\236\351\255\224(\345\205\250\347\220\203\345\205\254\346\270\254\347\211\210)"
+    creator: "IWPLAY WORLD"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 14
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh3.ggpht.com/0GTfgEUduyoYIhWlcPwe6rxOaXD-ZaATf4VZzXlvqsviDQ976QzAVop7SAAZYZUL-w"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh4.ggpht.com/aWGPs2mIAWl76LmFxMT8Lhy02GeTVbuFe_v9jvVdEEamWc0qMTkWP5E_0Ve6UvUR9II"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=iEgz--EEhqI&index=3&list=PLEFIIUyIlnqA-XjDQ36IBP9lfpsUSoJLE"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/iEgz--EEhqI/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 14
+        installationSize: 31731607
+        numDownloads: "100,000+"
+        packageName: "tw.com.iwplay.android.smg"
+        uploadDate: "Nov 4, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.5101981163
+      ratingsCount: 13434
+      oneStarRatings: 1198
+      twoStarRatings: 188
+      threeStarRatings: 377
+      fourStarRatings: 470
+      fiveStarRatings: 11201
+      commentCount: 7406
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=tw.com.iwplay.android.smg"
+    shareUrl: "https://play.google.com/store/apps/details?id=tw.com.iwplay.android.smg"
+    purchaseDetailsUrl: "details?doc=tw.com.iwplay.android.smg"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.sincetimes.totalwar.fan"
+    backendDocid: "com.sincetimes.totalwar.fan"
+    docType: 1
+    backendId: 3
+    title: "\345\270\235\345\234\213\346\246\256\350\200\200"
+    creator: "Stormfly"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 121
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh4.ggpht.com/ObqTiy9bjBDXOGE4JhJ0QJZrnOzwND333ItNotMShhZNDEuEafMPt0-KYXCrPmXo_NY"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh4.ggpht.com/OMvZ9-Qbr0neNRGbn6f06v_Oajd13yA1J5czmGFyDfYxSD3Ioe6tf0r9DWu1O4L1VeI"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 121
+        installationSize: 35211315
+        numDownloads: "50,000+"
+        packageName: "com.sincetimes.totalwar.fan"
+        uploadDate: "Nov 6, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 3.7067668438
+      ratingsCount: 133
+      oneStarRatings: 33
+      twoStarRatings: 3
+      threeStarRatings: 6
+      fourStarRatings: 19
+      fiveStarRatings: 72
+      commentCount: 26
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.sincetimes.totalwar.fan"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.sincetimes.totalwar.fan"
+    purchaseDetailsUrl: "details?doc=com.sincetimes.totalwar.fan"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.myplay1.g011g"
+    backendDocid: "com.myplay1.g011g"
+    docType: 1
+    backendId: 3
+    title: "\351\276\215\344\271\213\345\256\210\350\255\267-\346\254\241\344\270\226\344\273\243\345\234\213\346\210\260\351\211\205\344\275\234"
+    creator: "Taiwan Kuro Times Co.,Ltd"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 8
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh4.ggpht.com/pUJ91K4Ca1gDK45zT3a5iUY_0lj_MoJkHk6W3gjmVqx2KjuZQlf5YNfq03CkaH__JN0"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh3.ggpht.com/omk8YXQCHpUZTzUbj4fy-ATJ2TIan8jPpsp_SErYWNb3YTVyvjPdNc0PdMbc2xQIc-4"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=tkegO9-0EMk"
+    }
+    image {
+      imageType: 13
+      imageUrl: "http://i.ytimg.com/vi/tkegO9-0EMk/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 8
+        installationSize: 40999038
+        numDownloads: "100,000+"
+        packageName: "com.myplay1.g011g"
+        uploadDate: "Oct 30, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.47202301025
+      ratingsCount: 2091
+      oneStarRatings: 192
+      twoStarRatings: 28
+      threeStarRatings: 69
+      fourStarRatings: 114
+      fiveStarRatings: 1688
+      commentCount: 899
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.myplay1.g011g"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.myplay1.g011g"
+    purchaseDetailsUrl: "details?doc=com.myplay1.g011g"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.alone.juesha.hudong"
+    backendDocid: "com.alone.juesha.hudong"
+    docType: 1
+    backendId: 3
+    title: "\347\251\277\350\266\212\347\216\251\344\270\211\345\234\213 - \345\237\271\350\202\262\350\207\252\345\267\261\347\232\204\345\220\215\345\260\207\346\210\260\345\244\251\344\270\213"
+    creator: "huo haohua"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 22
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh5.ggpht.com/UFkPIb0jTnNaoGugKKQuindH1DrZPqlnUpZDGvzEfUgiq-1W1vrRDY5mnm_JXIE6Eh0"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh6.ggpht.com/DjrV3e3yGekLOzJ4Luhq7liirSbur8CB2BhBlDPoheXSDf_VOyjw9snuCGc2_cl4ziE"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 0
+      imageUrl: "https://lh4.ggpht.com/bppMpVQHa64AIN7YRfSIcYs1z0eg2BSYBm1eLsM-fba_KlQj-L3Ao1qdSYGyOGwm7Q"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 22
+        installationSize: 44705000
+        numDownloads: "5,000+"
+        packageName: "com.alone.juesha.hudong"
+        uploadDate: "Oct 8, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 3.99115037918
+      ratingsCount: 113
+      oneStarRatings: 18
+      twoStarRatings: 5
+      threeStarRatings: 4
+      fourStarRatings: 19
+      fiveStarRatings: 67
+      commentCount: 8
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.alone.juesha.hudong"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.alone.juesha.hudong"
+    purchaseDetailsUrl: "details?doc=com.alone.juesha.hudong"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.nereus.clarion"
+    backendDocid: "com.nereus.clarion"
+    docType: 1
+    backendId: 3
+    title: "\346\265\267\347\245\236\345\217\267\350\247\222(\345\205\250\346\231\257\346\265\267\346\210\260\345\215\203\351\244\230\347\216\251\346\263\225)"
+    creator: "\350\210\252\346\265\267\344\272\222\345\213\225"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 11
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh4.ggpht.com/jX9NYvT0jDFDjxGHWhkojPhcQDf-VUUht4IpdMy2TsXx1FQE6zElUzUFuT5gIzntwJQ"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh5.ggpht.com/w08FLCMQSgP_P_QKe1FX5SZuRFNQMquBS_D9InDx3Y8fBragHtIoJitrRIpDkVAkOw"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 0
+      imageUrl: "https://lh3.ggpht.com/BaHBUyDb1MgwOAVc-MLYiPhKG8utRWsUlHK-Qzfrp7jkHphVA-v3aaGnG3aT-YLyJZI"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 11
+        installationSize: 66151141
+        numDownloads: "5,000+"
+        packageName: "com.nereus.clarion"
+        uploadDate: "Oct 23, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.19557189941
+      ratingsCount: 271
+      oneStarRatings: 31
+      twoStarRatings: 7
+      threeStarRatings: 14
+      fourStarRatings: 45
+      fiveStarRatings: 174
+      commentCount: 64
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.nereus.clarion"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.nereus.clarion"
+    purchaseDetailsUrl: "details?doc=com.nereus.clarion"
+    detailsReusable: true
+  }
+  child {
+    docid: "com.boyaa.lordland.fb"
+    backendDocid: "com.boyaa.lordland.fb"
+    docType: 1
+    backendId: 3
+    title: "\345\215\232\351\233\205\351\254\245\345\234\260\344\270\273\357\274\210\346\224\257\346\214\201\347\231\251\345\255\220\347\216\251\346\263\225\357\274\211"
+    creator: "Boyaa"
+    offer {
+      micros: 0
+      currencyCode: "HKD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      PerDeviceAvailabilityRestriction {
+        androidId: 4347525397206328032
+        deviceRestriction: 1
+        channelId: 51
+      }
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh4.ggpht.com/w5PnLMZpiucnpX1YeV00ILwL4qcsQUYhYQ5dncLq_rMqEjagRjGrP35pHwj4MYBlxHI"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "http://lh6.ggpht.com/dbY4fXeIAER0yqZUT9zHA6iY2S48ufvzyXVVhz_creH7POdlEVhVZsehyKBGN5RzHw"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 51
+        installationSize: 18059515
+        numDownloads: "1,000,000+"
+        packageName: "com.boyaa.lordland.fb"
+        uploadDate: "Oct 27, 2014"
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.31782817841
+      ratingsCount: 43168
+      oneStarRatings: 4288
+      twoStarRatings: 993
+      threeStarRatings: 2127
+      fourStarRatings: 5063
+      fiveStarRatings: 30697
+      commentCount: 8886
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.boyaa.lordland.fb"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.boyaa.lordland.fb"
+    purchaseDetailsUrl: "details?doc=com.boyaa.lordland.fb"
+    detailsReusable: true
+  }
+  containerMetadata {
+    browseUrl: "browse?bt=4&c=3&ctr=apps_topselling_free&cat=GAME"
+    nextPageUrl: "list?bt=4&c=3&ctr=apps_topselling_free&cat=GAME&n=20&ctntkn=CBQ%3D&o=20"
+    analyticsCookie: "578096662"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+
+list?bt=4&c=3&ctr=apps_topselling_free&cat=GAME&n=20&ctntkn=CBQ%3D&o=20

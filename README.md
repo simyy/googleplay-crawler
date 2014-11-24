@@ -1,4 +1,4 @@
 googleplay-crawl
 ================
 
-a googlepaly spider in python
+a googleplay crawl in python

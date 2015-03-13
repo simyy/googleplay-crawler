@@ -1,4 +1,4 @@
-#googleplay-crawl
+#googleplayCrawler
 
 >a googleplay crawl in python
 >this is downlonding apk like a android phone
